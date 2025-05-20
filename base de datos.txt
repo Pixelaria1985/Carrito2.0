@@ -1,0 +1,15 @@
+---------------------------------------------------------------------
+
+conexion.php: Para la conexión a la base de datos.
+
+agregar_producto.php: Para agregar nuevos productos al sistema.
+
+registrar_compra.php: Para registrar una compra y actualizar el stock.
+
+registrar_venta.php: Para gestionar el carrito de ventas, registrar productos vendidos y actualizar el stock.
+
+historial_compras.php: Para ver el historial de compras.
+
+historial_ventas.php: Para ver el historial de ventas.
+
+exportar_csv.php: Para exportar el historial a CSV.
